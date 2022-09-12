@@ -8,7 +8,7 @@
 npm -install axios
 npm -install cheerio
 </code>
-<img src=".src/currency.gif" alt="visual studio code and command line showing output." with="500">
+<img src="https://github.com/ebreyaue/command_currencies/blob/main/src/currency.gif?raw=true" alt="visual studio code and command line showing output." with="500">
 
 
 <p>Currencies List</p>
